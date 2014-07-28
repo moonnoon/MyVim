@@ -1,1 +1,0 @@
-/cygdrive/e/Go/misc/vim/syntax/go.vim
